@@ -1,4 +1,4 @@
-# 🔗 Decentralized Messenger Swift
+# 🔗 Decentralized Messenger
 
 A fully decentralized iOS messaging app that works without internet or servers. Connect directly with nearby users via WiFi and Bluetooth using Apple's Multipeer Connectivity framework. All messages are end-to-end encrypted and work completely offline.
 
@@ -352,25 +352,6 @@ Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidel
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📄 License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
-## ⚠️ Disclaimer
-
-This is educational software demonstrating P2P messaging concepts. While it implements strong encryption, it has not undergone a professional security audit. Use at your own risk for non-critical communications.
-
-## 🙏 Acknowledgments
-
-- Apple's Multipeer Connectivity framework
-- CryptoKit for encryption
-- SwiftUI and Combine
-- Open source Swift community
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/decentralized-messenger-swift/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/decentralized-messenger-swift/discussions)
 
 ## 🎯 Use Cases
 
@@ -402,9 +383,3 @@ Key Derivation: HKDF-SHA256
 Session Keys: Unique per conversation
 Forward Secrecy: Session keys not persisted
 ```
-
----
-
-**Built with ❤️ and Swift | Decentralized. Encrypted. Free.**
-
-🔗 **No servers. No tracking. Just pure P2P messaging.**
